@@ -1,6 +1,10 @@
 Revision history for Perl extension Net::LDAP::Gateway.
 
-0.02
+0.03  Aug 31, 2011
+        - packing of substring filters was broken (bug reported by
+          Rafael Porres)
+
+0.02  Jul 11, 2011
 
         - documentation error for methods besed on
           _ldap_pack_result_response amended (reported by Rafael
